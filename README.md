@@ -34,7 +34,8 @@ To reduce noise, clustering and averaging methods were applied to group nearby r
 ## Images
 
 <img width="1480" height="836" alt="Screenshot 2026-03-08 212640" src="https://github.com/user-attachments/assets/d4b45c83-3147-4429-99fd-73e4a05ff419" />
-![IMG_20260307_213038398](https://github.com/user-attachments/assets/427fca6d-8824-4fbd-9080-2a635ba9f6b8)
+<img width="3072" height="4080" alt="IMG_20260307_2130ss38398" src="https://github.com/user-attachments/assets/06892104-f64c-4975-8e2b-1ea105b7952a" />
+
 
 
 
