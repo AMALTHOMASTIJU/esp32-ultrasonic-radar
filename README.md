@@ -7,6 +7,7 @@ The system scans the surroundings and visualizes detected objects using Processi
 
 - ESP32
 - HC-SR04 Ultrasonic Sensor
+- Breadboard
 - Servo Motor
 - Jumper wires
 
